@@ -1,0 +1,267 @@
+2016/08/16-01:19:53.180 4ddc Delete type=3 #1
+2016/08/16-01:19:55.775 46ac Level-0 table #5: started
+2016/08/16-01:19:55.804 46ac Level-0 table #5: 3980848 bytes OK
+2016/08/16-01:19:55.808 46ac Delete type=0 #3
+2016/08/16-01:19:55.885 46ac Level-0 table #7: started
+2016/08/16-01:19:55.933 46ac Level-0 table #7: 4064049 bytes OK
+2016/08/16-01:19:55.936 46ac Delete type=0 #4
+2016/08/16-01:19:55.982 46ac Level-0 table #9: started
+2016/08/16-01:19:56.016 46ac Level-0 table #9: 3975427 bytes OK
+2016/08/16-01:19:56.018 46ac Delete type=0 #6
+2016/08/16-01:19:56.081 46ac Level-0 table #11: started
+2016/08/16-01:19:56.123 46ac Level-0 table #11: 4355885 bytes OK
+2016/08/16-01:19:56.126 46ac Delete type=0 #8
+2016/08/16-01:19:56.166 46ac Level-0 table #13: started
+2016/08/16-01:19:56.204 46ac Level-0 table #13: 4270366 bytes OK
+2016/08/16-01:19:56.207 46ac Delete type=0 #10
+2016/08/16-01:19:56.273 46ac Level-0 table #15: started
+2016/08/16-01:19:56.305 46ac Level-0 table #15: 4083012 bytes OK
+2016/08/16-01:19:56.307 46ac Delete type=0 #12
+2016/08/16-01:19:56.308 46ac Compacting 4@0 + 1@1 files
+2016/08/16-01:19:56.328 46ac Generated table #16: 5123 keys, 2168219 bytes
+2016/08/16-01:19:56.349 46ac Generated table #17: 4386 keys, 2174768 bytes
+2016/08/16-01:19:56.380 46ac Generated table #18: 4838 keys, 2163841 bytes
+2016/08/16-01:19:56.404 46ac Generated table #19: 3215 keys, 2162866 bytes
+2016/08/16-01:19:56.431 46ac Generated table #20: 2674 keys, 2172268 bytes
+2016/08/16-01:19:56.474 46ac Generated table #21: 2493 keys, 2181188 bytes
+2016/08/16-01:19:56.487 46ac Level-0 table #24: started
+2016/08/16-01:19:56.527 46ac Level-0 table #24: 4428523 bytes OK
+2016/08/16-01:19:56.529 46ac Delete type=0 #14
+2016/08/16-01:19:56.550 46ac Generated table #23: 3602 keys, 2163211 bytes
+2016/08/16-01:19:56.583 46ac Generated table #25: 2398 keys, 2182260 bytes
+2016/08/16-01:19:56.614 46ac Generated table #26: 2746 keys, 2172513 bytes
+2016/08/16-01:19:56.654 46ac Generated table #27: 1525 keys, 1162038 bytes
+2016/08/16-01:19:56.675 46ac Compacted 4@0 + 1@1 files => 20703172 bytes
+2016/08/16-01:19:56.679 46ac Delete type=2 #7
+2016/08/16-01:19:56.680 46ac Delete type=2 #9
+2016/08/16-01:19:56.681 46ac Delete type=2 #11
+2016/08/16-01:19:56.681 46ac Delete type=2 #13
+2016/08/16-01:19:56.682 46ac Delete type=2 #15
+2016/08/16-01:19:56.683 46ac compacted to: files[ 1 10 1 0 0 0 0 ]
+2016/08/16-01:19:56.683 46ac Level-0 table #29: started
+2016/08/16-01:19:56.712 46ac Level-0 table #29: 4037943 bytes OK
+2016/08/16-01:19:56.714 46ac Delete type=0 #22
+2016/08/16-01:19:56.715 46ac Expanding@1 1+1 to 10+1
+2016/08/16-01:19:56.715 46ac Compacting 10@1 + 1@2 files
+2016/08/16-01:19:56.741 46ac Generated table #30: 5509 keys, 2154690 bytes
+2016/08/16-01:19:56.791 46ac Generated table #31: 4456 keys, 2174165 bytes
+2016/08/16-01:19:56.817 46ac Level-0 table #34: started
+2016/08/16-01:19:56.853 46ac Level-0 table #34: 3818619 bytes OK
+2016/08/16-01:19:56.856 46ac Delete type=0 #28
+2016/08/16-01:19:56.900 46ac Generated table #33: 4697 keys, 2172406 bytes
+2016/08/16-01:19:56.900 46ac Level-0 table #36: started
+2016/08/16-01:19:56.935 46ac Level-0 table #36: 3971110 bytes OK
+2016/08/16-01:19:56.938 46ac Delete type=0 #32
+2016/08/16-01:19:56.966 46ac Generated table #37: 4045 keys, 2161866 bytes
+2016/08/16-01:19:56.990 46ac Generated table #38: 3042 keys, 2170214 bytes
+2016/08/16-01:19:57.017 46ac Generated table #39: 3348 keys, 2157382 bytes
+2016/08/16-01:19:57.043 46ac Generated table #40: 2540 keys, 2181736 bytes
+2016/08/16-01:19:57.064 46ac Generated table #41: 2563 keys, 2175890 bytes
+2016/08/16-01:19:57.088 46ac Generated table #42: 3628 keys, 2166369 bytes
+2016/08/16-01:19:57.117 46ac Generated table #43: 2520 keys, 2184378 bytes
+2016/08/16-01:19:57.139 46ac Generated table #44: 2672 keys, 2178916 bytes
+2016/08/16-01:19:57.151 46ac Generated table #45: 1062 keys, 794707 bytes
+2016/08/16-01:19:57.151 46ac Compacted 10@1 + 1@2 files => 24672719 bytes
+2016/08/16-01:19:57.154 46ac Delete type=2 #5
+2016/08/16-01:19:57.154 46ac Delete type=2 #16
+2016/08/16-01:19:57.155 46ac Delete type=2 #17
+2016/08/16-01:19:57.156 46ac Delete type=2 #18
+2016/08/16-01:19:57.156 46ac Delete type=2 #19
+2016/08/16-01:19:57.157 46ac Delete type=2 #20
+2016/08/16-01:19:57.157 46ac Delete type=2 #21
+2016/08/16-01:19:57.158 46ac Delete type=2 #23
+2016/08/16-01:19:57.158 46ac Delete type=2 #25
+2016/08/16-01:19:57.159 46ac Delete type=2 #26
+2016/08/16-01:19:57.159 46ac Delete type=2 #27
+2016/08/16-01:19:57.160 46ac compacted to: files[ 4 0 12 0 0 0 0 ]
+2016/08/16-01:19:57.215 46ac Compacting 4@0 + 0@1 files
+2016/08/16-01:19:57.237 46ac Generated table #46: 4529 keys, 2176674 bytes
+2016/08/16-01:19:57.265 46ac Generated table #47: 4503 keys, 2163365 bytes
+2016/08/16-01:19:57.289 46ac Generated table #48: 3872 keys, 2040649 bytes
+2016/08/16-01:19:57.314 46ac Generated table #49: 2465 keys, 2192077 bytes
+2016/08/16-01:19:57.348 46ac Generated table #50: 2683 keys, 2189524 bytes
+2016/08/16-01:19:57.380 46ac Generated table #51: 2599 keys, 2189756 bytes
+2016/08/16-01:19:57.428 46ac Generated table #52: 2833 keys, 2179844 bytes
+2016/08/16-01:19:57.443 46ac Level-0 table #55: started
+2016/08/16-01:19:57.488 46ac Level-0 table #55: 3976623 bytes OK
+2016/08/16-01:19:57.491 46ac Delete type=0 #35
+2016/08/16-01:19:57.509 46ac Generated table #54: 1516 keys, 1106768 bytes
+2016/08/16-01:19:57.509 46ac Compacted 4@0 + 0@1 files => 16238657 bytes
+2016/08/16-01:19:57.512 46ac Delete type=2 #24
+2016/08/16-01:19:57.512 46ac Delete type=2 #29
+2016/08/16-01:19:57.514 46ac Delete type=2 #34
+2016/08/16-01:19:57.514 46ac Delete type=2 #36
+2016/08/16-01:19:57.515 46ac compacted to: files[ 1 8 12 0 0 0 0 ]
+2016/08/16-01:19:57.515 46ac Expanding@1 1+4 to 3+4
+2016/08/16-01:19:57.515 46ac Compacting 3@1 + 4@2 files
+2016/08/16-01:19:57.541 46ac Generated table #56: 5558 keys, 2159438 bytes
+2016/08/16-01:19:57.572 46ac Generated table #57: 4427 keys, 2170595 bytes
+2016/08/16-01:19:57.605 46ac Generated table #58: 4739 keys, 2169581 bytes
+2016/08/16-01:19:57.648 46ac Generated table #59: 4514 keys, 2168088 bytes
+2016/08/16-01:19:57.680 46ac Generated table #60: 4668 keys, 2166909 bytes
+2016/08/16-01:19:57.717 46ac Generated table #61: 4640 keys, 2169608 bytes
+2016/08/16-01:19:57.742 46ac Generated table #62: 3065 keys, 2035948 bytes
+2016/08/16-01:19:57.742 46ac Compacted 3@1 + 4@2 files => 15040167 bytes
+2016/08/16-01:19:57.746 46ac Delete type=2 #30
+2016/08/16-01:19:57.746 46ac Delete type=2 #31
+2016/08/16-01:19:57.747 46ac Delete type=2 #33
+2016/08/16-01:19:57.748 46ac Delete type=2 #37
+2016/08/16-01:19:57.748 46ac Delete type=2 #46
+2016/08/16-01:19:57.749 46ac Delete type=2 #47
+2016/08/16-01:19:57.749 46ac Delete type=2 #48
+2016/08/16-01:19:57.750 46ac compacted to: files[ 1 5 15 0 0 0 0 ]
+2016/08/16-01:20:34.650 46ac Level-0 table #64: started
+2016/08/16-01:20:34.678 46ac Level-0 table #64: 4125733 bytes OK
+2016/08/16-01:20:34.680 46ac Delete type=0 #53
+2016/08/16-01:39:03.595 46ac Level-0 table #66: started
+2016/08/16-01:39:03.628 46ac Level-0 table #66: 4087384 bytes OK
+2016/08/16-01:39:03.631 46ac Delete type=0 #63
+2016/08/16-01:45:57.368 46ac Level-0 table #68: started
+2016/08/16-01:45:57.397 46ac Level-0 table #68: 4890845 bytes OK
+2016/08/16-01:45:57.400 46ac Delete type=0 #65
+2016/08/16-01:45:57.401 46ac Compacting 4@0 + 5@1 files
+2016/08/16-01:45:57.411 46ac Generated table #69: 273 keys, 149015 bytes
+2016/08/16-01:45:57.432 46ac Generated table #70: 2465 keys, 2192077 bytes
+2016/08/16-01:45:57.453 46ac Generated table #71: 2683 keys, 2189524 bytes
+2016/08/16-01:45:57.476 46ac Generated table #72: 2599 keys, 2189756 bytes
+2016/08/16-01:45:57.497 46ac Generated table #73: 2833 keys, 2179844 bytes
+2016/08/16-01:45:57.517 46ac Generated table #74: 2599 keys, 2194274 bytes
+2016/08/16-01:45:57.537 46ac Generated table #75: 2642 keys, 2180470 bytes
+2016/08/16-01:45:57.559 46ac Generated table #76: 1568 keys, 2276926 bytes
+2016/08/16-01:45:57.584 46ac Generated table #77: 1 keys, 2309109 bytes
+2016/08/16-01:45:57.601 46ac Generated table #78: 162 keys, 524301 bytes
+2016/08/16-01:45:57.601 46ac Compacted 4@0 + 5@1 files => 18385296 bytes
+2016/08/16-01:45:57.604 46ac Delete type=2 #49
+2016/08/16-01:45:57.604 46ac Delete type=2 #50
+2016/08/16-01:45:57.604 46ac Delete type=2 #51
+2016/08/16-01:45:57.605 46ac Delete type=2 #52
+2016/08/16-01:45:57.605 46ac Delete type=2 #54
+2016/08/16-01:45:57.607 46ac Delete type=2 #55
+2016/08/16-01:45:57.607 46ac Delete type=2 #64
+2016/08/16-01:45:57.608 46ac Delete type=2 #66
+2016/08/16-01:45:57.609 46ac Delete type=2 #68
+2016/08/16-01:45:57.610 46ac compacted to: files[ 0 10 15 0 0 0 0 ]
+2016/08/16-01:45:57.610 46ac Compacting 1@1 + 7@2 files
+2016/08/16-01:45:57.634 46ac Generated table #79: 5572 keys, 2156335 bytes
+2016/08/16-01:45:57.655 46ac Generated table #80: 4419 keys, 2170749 bytes
+2016/08/16-01:45:57.682 46ac Generated table #81: 4757 keys, 2169379 bytes
+2016/08/16-01:45:57.707 46ac Generated table #82: 4512 keys, 2167752 bytes
+2016/08/16-01:45:57.732 46ac Generated table #83: 4656 keys, 2168001 bytes
+2016/08/16-01:45:57.754 46ac Generated table #84: 4656 keys, 2167713 bytes
+2016/08/16-01:45:57.774 46ac Generated table #85: 3286 keys, 2171842 bytes
+2016/08/16-01:45:57.778 46ac Generated table #86: 8 keys, 4507 bytes
+2016/08/16-01:45:57.778 46ac Compacted 1@1 + 7@2 files => 15176278 bytes
+2016/08/16-01:45:57.781 46ac Delete type=2 #50
+2016/08/16-01:45:57.781 46ac Delete type=2 #56
+2016/08/16-01:45:57.782 46ac Delete type=2 #57
+2016/08/16-01:45:57.783 46ac Delete type=2 #58
+2016/08/16-01:45:57.783 46ac Delete type=2 #59
+2016/08/16-01:45:57.784 46ac Delete type=2 #60
+2016/08/16-01:45:57.785 46ac Delete type=2 #61
+2016/08/16-01:45:57.785 46ac Delete type=2 #62
+2016/08/16-01:45:57.786 46ac Delete type=2 #69
+2016/08/16-01:45:57.786 46ac compacted to: files[ 0 9 16 0 0 0 0 ]
+2016/08/16-01:45:57.786 46ac Expanding@1 1+1 to 9+1
+2016/08/16-01:45:57.786 46ac Compacting 9@1 + 1@2 files
+2016/08/16-01:45:57.816 46ac Generated table #87: 2671 keys, 2180382 bytes
+2016/08/16-01:45:57.838 46ac Generated table #88: 2349 keys, 2195295 bytes
+2016/08/16-01:45:57.862 46ac Generated table #89: 2910 keys, 2186132 bytes
+2016/08/16-01:45:57.889 46ac Generated table #90: 2732 keys, 2185291 bytes
+2016/08/16-01:45:57.907 46ac Generated table #91: 2507 keys, 2188722 bytes
+2016/08/16-01:45:57.937 46ac Generated table #92: 2889 keys, 2188678 bytes
+2016/08/16-01:45:57.957 46ac Generated table #93: 1742 keys, 2192992 bytes
+2016/08/16-01:45:57.995 46ac Generated table #94: 13 keys, 3172870 bytes
+2016/08/16-01:45:58.008 46ac Generated table #95: 89 keys, 523853 bytes
+2016/08/16-01:45:58.008 46ac Compacted 9@1 + 1@2 files => 19014215 bytes
+2016/08/16-01:45:58.010 46ac Delete type=2 #45
+2016/08/16-01:45:58.011 46ac Delete type=2 #70
+2016/08/16-01:45:58.011 46ac Delete type=2 #71
+2016/08/16-01:45:58.012 46ac Delete type=2 #72
+2016/08/16-01:45:58.013 46ac Delete type=2 #73
+2016/08/16-01:45:58.013 46ac Delete type=2 #74
+2016/08/16-01:45:58.014 46ac Delete type=2 #75
+2016/08/16-01:45:58.014 46ac Delete type=2 #76
+2016/08/16-01:45:58.015 46ac Delete type=2 #77
+2016/08/16-01:45:58.015 46ac Delete type=2 #78
+2016/08/16-01:45:58.016 46ac compacted to: files[ 0 0 24 0 0 0 0 ]
+2016/08/16-01:52:09.124 46ac Level-0 table #97: started
+2016/08/16-01:52:09.148 46ac Level-0 table #97: 4268605 bytes OK
+2016/08/16-01:52:09.150 46ac Delete type=0 #67
+2016/08/16-01:52:45.598 46ac Level-0 table #99: started
+2016/08/16-01:52:45.620 46ac Level-0 table #99: 4275681 bytes OK
+2016/08/16-01:52:45.623 46ac Delete type=0 #96
+2016/08/16-02:05:55.772 46ac Level-0 table #101: started
+2016/08/16-02:05:55.801 46ac Level-0 table #101: 4411010 bytes OK
+2016/08/16-02:05:55.803 46ac Delete type=0 #98
+2016/08/16-02:12:49.298 46ac Level-0 table #103: started
+2016/08/16-02:12:49.343 46ac Level-0 table #103: 6220887 bytes OK
+2016/08/16-02:12:49.345 46ac Delete type=0 #100
+2016/08/16-02:12:49.346 46ac Compacting 4@0 + 0@1 files
+2016/08/16-02:12:49.350 46ac Generated table #104: 28 keys, 7793 bytes
+2016/08/16-02:12:49.380 46ac Generated table #105: 557 keys, 2819631 bytes
+2016/08/16-02:12:49.389 46ac Generated table #106: 127 keys, 81921 bytes
+2016/08/16-02:12:49.389 46ac Compacted 4@0 + 0@1 files => 2909345 bytes
+2016/08/16-02:12:49.391 46ac Delete type=2 #97
+2016/08/16-02:12:49.392 46ac Delete type=2 #99
+2016/08/16-02:12:49.392 46ac Delete type=2 #101
+2016/08/16-02:12:49.393 46ac Delete type=2 #103
+2016/08/16-02:12:49.394 46ac compacted to: files[ 0 3 24 0 0 0 0 ]
+2016/08/16-02:15:14.736 46ac Level-0 table #108: started
+2016/08/16-02:15:14.767 46ac Level-0 table #108: 4183641 bytes OK
+2016/08/16-02:15:14.769 46ac Delete type=0 #102
+2016/08/16-02:26:36.902 46ac Level-0 table #110: started
+2016/08/16-02:26:36.942 46ac Level-0 table #110: 4173760 bytes OK
+2016/08/16-02:26:36.945 46ac Delete type=0 #107
+2016/08/16-02:32:41.968 46ac Level-0 table #112: started
+2016/08/16-02:32:41.997 46ac Level-0 table #112: 4275409 bytes OK
+2016/08/16-02:32:42.000 46ac Delete type=0 #109
+2016/08/16-02:39:16.841 46ac Level-0 table #114: started
+2016/08/16-02:39:16.871 46ac Level-0 table #114: 4280487 bytes OK
+2016/08/16-02:39:16.874 46ac Delete type=0 #111
+2016/08/16-02:39:16.875 46ac Compacting 4@0 + 3@1 files
+2016/08/16-02:39:16.879 46ac Generated table #115: 32 keys, 8673 bytes
+2016/08/16-02:39:16.907 46ac Generated table #116: 688 keys, 2655569 bytes
+2016/08/16-02:39:16.920 46ac Generated table #117: 162 keys, 251636 bytes
+2016/08/16-02:39:16.920 46ac Compacted 4@0 + 3@1 files => 2915878 bytes
+2016/08/16-02:39:16.922 46ac Delete type=2 #104
+2016/08/16-02:39:16.922 46ac Delete type=2 #105
+2016/08/16-02:39:16.923 46ac Delete type=2 #106
+2016/08/16-02:39:16.923 46ac Delete type=2 #108
+2016/08/16-02:39:16.924 46ac Delete type=2 #110
+2016/08/16-02:39:16.925 46ac Delete type=2 #112
+2016/08/16-02:39:16.926 46ac Delete type=2 #114
+2016/08/16-02:39:16.927 46ac compacted to: files[ 0 3 24 0 0 0 0 ]
+2016/08/16-02:49:10.975 46ac Level-0 table #119: started
+2016/08/16-02:49:11.014 46ac Level-0 table #119: 4164423 bytes OK
+2016/08/16-02:49:11.016 46ac Delete type=0 #113
+2016/08/16-02:56:13.194 46ac Level-0 table #121: started
+2016/08/16-02:56:13.223 46ac Level-0 table #121: 4234831 bytes OK
+2016/08/16-02:56:13.225 46ac Delete type=0 #118
+2016/08/16-03:07:42.841 46ac Level-0 table #123: started
+2016/08/16-03:07:42.866 46ac Level-0 table #123: 4181488 bytes OK
+2016/08/16-03:07:42.868 46ac Delete type=0 #120
+2016/08/16-03:15:42.372 46ac Level-0 table #125: started
+2016/08/16-03:15:42.402 46ac Level-0 table #125: 4165931 bytes OK
+2016/08/16-03:15:42.404 46ac Delete type=0 #122
+2016/08/16-03:15:42.405 46ac Compacting 4@0 + 3@1 files
+2016/08/16-03:15:42.413 46ac Generated table #126: 32 keys, 8673 bytes
+2016/08/16-03:15:42.456 46ac Generated table #127: 688 keys, 2655103 bytes
+2016/08/16-03:15:42.469 46ac Generated table #128: 162 keys, 251340 bytes
+2016/08/16-03:15:42.469 46ac Compacted 4@0 + 3@1 files => 2915116 bytes
+2016/08/16-03:15:42.476 46ac Delete type=2 #115
+2016/08/16-03:15:42.476 46ac Delete type=2 #116
+2016/08/16-03:15:42.477 46ac Delete type=2 #117
+2016/08/16-03:15:42.478 46ac Delete type=2 #119
+2016/08/16-03:15:42.478 46ac Delete type=2 #121
+2016/08/16-03:15:42.479 46ac Delete type=2 #123
+2016/08/16-03:15:42.480 46ac Delete type=2 #125
+2016/08/16-03:15:42.480 46ac compacted to: files[ 0 3 24 0 0 0 0 ]
+2016/08/16-03:29:39.099 46ac Compacting 1@1 + 1@2 files
+2016/08/16-03:29:39.112 46ac Generated table #129: 91 keys, 693411 bytes
+2016/08/16-03:29:39.112 46ac Compacted 1@1 + 1@2 files => 693411 bytes
+2016/08/16-03:29:39.114 46ac Delete type=2 #95
+2016/08/16-03:29:39.114 46ac Delete type=2 #128
+2016/08/16-03:29:39.115 46ac compacted to: files[ 0 2 24 0 0 0 0 ]
+2016/08/16-03:31:41.875 46ac Level-0 table #131: started
+2016/08/16-03:31:41.900 46ac Level-0 table #131: 5545857 bytes OK
+2016/08/16-03:31:41.903 46ac Delete type=0 #124

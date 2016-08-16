@@ -7,7 +7,9 @@
   "author": "Fractal <contact@wearefractal.com> (http://wearefractal.com/)",
   "main": "./index.js",
   "dependencies": {
-    "request": "^2.30.0"
+    "@types/request": "0.0.28",
+    "request": "^2.30.0",
+    "web-request": "^1.0.3"
   },
   "engines": {
     "node": ">= 0.4.0"
@@ -19,6 +21,8 @@
     }
   ],
   "devDependencies": {
-    "async": "~0.2.9"
+    "@types/async": "^2.0.30",
+    "async": "^2.0.1",
+    "typescript": "^2.1.0-dev.20160816"
   }
 }
